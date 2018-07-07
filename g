@@ -10,3 +10,6 @@ kk
 mm
 dd
 gg
+gg
+ll
+dd
